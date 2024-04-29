@@ -2,7 +2,7 @@
   "require": {
     "php": ">=7.4",
     "ext-json": "*",
-    "longman/telegram-bot": "^0.71.0",
+    "longman/telegram-bot": "^0.82.0",
     "vlucas/phpdotenv": "^5.3"
   }
 }
