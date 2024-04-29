@@ -1,3 +1,11 @@
+<?php
+// Your PHP code goes here
+
+// Example: Retrieve the value of $_ENV['REMOTE_PATH']
+$remotePath = $_ENV['REMOTE_PATH'];
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
